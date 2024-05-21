@@ -1,0 +1,11 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #032ffa;
+}
+
+#conveyor {
+    width: 50vw;
+    margin: 0px;
+    padding: 0px;
+}
