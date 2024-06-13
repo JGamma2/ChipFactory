@@ -39,4 +39,5 @@ JGamma2, the hottest dev this side of the Araguaia River.
 Ok this whole backlog has gone completely off the rails.
 You can tell I have no idea how to use a backlog.
 This is useless but I love it.
+Alright the Sidebar mennu (as I'm calling it now) is done.
 
