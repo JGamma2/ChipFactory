@@ -1,6 +1,7 @@
 body {
     margin: 0px;
     padding: 0px;
+    overflow: hidden;
 }
 
 img {
@@ -8,6 +9,7 @@ img {
 }
 
 #game {
+    position: absolute;
     height: 100vh;
     width: 100vw;
     margin: 0px;
@@ -83,4 +85,15 @@ img {
     padding: 0px;
     display: inline;
 
+}
+
+#Sidebarmennu {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    width: 25vw;
+    height: 95%;
+    left: 100vw;
+    top: 0;
+    background-color: black;
 }
